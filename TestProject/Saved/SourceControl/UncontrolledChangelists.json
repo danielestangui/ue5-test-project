@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/HDD_Repositorios/ue5-test-project/TestProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"F:/HDD_Repositorios/ue5-test-project/TestProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/HDD_Repositorios/ue5-test-project/TestProject/Content/BP_Actor.uasset",
+				"F:/HDD_Repositorios/ue5-test-project/TestProject/Content/BP_Tutorial.uasset",
+				"F:/HDD_Repositorios/ue5-test-project/TestProject/Content/GM.uasset",
+				"F:/HDD_Repositorios/ue5-test-project/TestProject/Content/BP_Tutorial.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "TestProjectEditor Editor Win64 Development (TestProject)",
+            "compilerPath": "F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_TestProject.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

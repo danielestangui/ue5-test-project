@@ -1,0 +1,42 @@
+[
+	{
+		"file": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\Source\\TestProject\\TestProject.Build.cs",
+		"arguments": [
+			"F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "E:\\Programas_SSD\\Unreal Engine\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\Source\\TestProject\\TestProject.cpp",
+		"arguments": [
+			"F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "E:\\Programas_SSD\\Unreal Engine\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\Source\\TestProject\\TestProject.h",
+		"arguments": [
+			"F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "E:\\Programas_SSD\\Unreal Engine\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\Source\\TestProject\\TutorialCharacter.cpp",
+		"arguments": [
+			"F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "E:\\Programas_SSD\\Unreal Engine\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\Source\\TestProject\\TutorialCharacter.h",
+		"arguments": [
+			"F:\\HDD_Programas\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\HDD_Repositorios\\ue5-test-project\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "E:\\Programas_SSD\\Unreal Engine\\UE_5.4\\Engine\\Source"
+	}
+]

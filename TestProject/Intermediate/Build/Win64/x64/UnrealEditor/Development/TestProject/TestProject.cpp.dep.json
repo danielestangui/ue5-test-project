@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\hdd_repositorios\\ue5-test-project\\testproject\\source\\testproject\\testproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\hdd_repositorios\\ue5-test-project\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "f:\\hdd_repositorios\\ue5-test-project\\testproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testproject\\definitions.testproject.h",
+            "f:\\hdd_repositorios\\ue5-test-project\\testproject\\source\\testproject\\testproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
